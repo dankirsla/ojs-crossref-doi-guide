@@ -1,4 +1,4 @@
-# Setting Up Crossref DOIs in OJS: From Membership to First Deposit
+# Setting Up Crossref DOIs in OJS
 
 ## About this guide
 
@@ -203,3 +203,6 @@ This guide is based on publicly available documentation concerning Crossref, OJS
 OJS interfaces and plugin behavior can vary by version. Crossref fees, eligibility requirements, plugin capabilities, and administrative procedures can also change. Before carrying out a production deposit, verify the current Crossref requirements and the documentation corresponding to the specific OJS version in use.
 
 Where a procedure is presented as a recommendation rather than a Crossref requirement, it should be understood as a practical workflow choice rather than a mandatory registration condition.
+
+**Documentation status**
+Based on Crossref and PKP documentation reviewed in September 2026. OJS workflows and Crossref requirements may change; verify current documentation before applying the procedure to a production journal.
